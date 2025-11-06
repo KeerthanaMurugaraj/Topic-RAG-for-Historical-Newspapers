@@ -1,0 +1,47 @@
+## Keywords
+
+The dataset was retrieved using the following keywords:
+
+- atom
+- nuclear
+- atomkraft
+- atomenergie
+- thermonuklearen
+- atombomben
+- wasserstoffbombe
+- plutonium
+- wasserstoffbomben
+- kernspaltung
+- atomreaktoren
+- atomwaffen
+- nuklearenergie
+- atomsprengköpfen
+- atomkraftwerken
+- superbombe
+- radioaktiven
+- reaktor
+- atomindustrie
+- atomantrieb
+- atommeiler
+- megatonnen
+- atomexplosionen
+- kernwaffe
+- kernreaktoren
+- kernenergie
+- atomstrom
+- atomkraftwerk
+- kkw
+- kernkraftwerk
+- atomreaktoren
+- nucleaire
+- nucieaire
+- nuclöaire
+- nucieaires
+- nueleaire
+- nucleaires
+- nuoleaire
+- thermonucleaire
+- nuclöaires
+- hydrogene
+- atorniques
+- nucliaire
