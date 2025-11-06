@@ -94,16 +94,19 @@ If you use this repository or reference our approach, please cite:
 
 ```bibtex
 @article{Topic-RAG-for-Historical-Newspapers2025,
-  author  = {To be added},
+  author  = {Keerthana Murugaraj, Salima Lamsiyah, Marten During, Martin Theobald},
   title   = {Topic-RAG for Historical Newspapers: Enhancing Information Retrieval in Humanities Research through Topic-Based Retrieval-Augmented Generation},
-  journal = {To be added},
+  journal = {Computational Humanities Research},
   year    = {2025}
 }
 ```
 -----
 ## License
 
-This is an Open Access article, distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives licence (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is unaltered and is properly cited. The written permission of Cambridge University Press must be obtained for commercial re-use or in order to create a derivative work.
+This is an Open Access article, distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives licence (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is unaltered and is properly cited. The written permission of Cambridge University Press must be obtained for commercial re-use or in order to create a derivative work. 
+
+Copyright © The Author(s), 2025. Published by Cambridge University Press
+
 ---
 
 ## 📩 Contact
