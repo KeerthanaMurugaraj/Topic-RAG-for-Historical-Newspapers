@@ -103,15 +103,7 @@ If you use this repository or reference our approach, please cite:
 -----
 ## License
 
-### Code
-The code in this repository is licensed under the MIT. You are free to use, modify, and distribute the code, provided that you  **give appropriate credit** by citing the accompanying paper and referencing this repository.
-
----
-
-### Paper
-If you use or build upon the ideas, methods, or results presented in the paper, please **cite the paper** as shown above.
-
-
+This is an Open Access article, distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives licence (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is unaltered and is properly cited. The written permission of Cambridge University Press must be obtained for commercial re-use or in order to create a derivative work.
 ---
 
 ## 📩 Contact
