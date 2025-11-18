@@ -93,12 +93,13 @@ We thank the **Impresso team** for providing the document collection used in thi
 If you use this repository or reference our approach, please cite:
 
 ```bibtex
-@article{Topic-RAG-for-Historical-Newspapers2025,
-  author  = {Keerthana Murugaraj, Salima Lamsiyah, Marten During, Martin Theobald},
-  title   = {Topic-RAG for Historical Newspapers: Enhancing Information Retrieval in Humanities Research through Topic-Based Retrieval-Augmented Generation},
-  journal = {Computational Humanities Research},
-  year    = {2025}
-}
+@article{Murugaraj_Lamsiyah_During_Theobald_2025,
+title={Topic-RAG for Historical Newspapers: Enhancing Information Retrieval in Humanities Research through Topic-Based Retrieval-Augmented Generation},
+DOI={10.1017/chr.2025.10018},
+journal={Computational Humanities Research},
+author={Murugaraj, Keerthana and Lamsiyah, Salima and During, Marten and Theobald, Martin},
+year={2025},
+pages={1–21}}
 ```
 -----
 ## License
