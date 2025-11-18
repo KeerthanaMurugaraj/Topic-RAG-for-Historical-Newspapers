@@ -3,6 +3,11 @@
 
 *Enhancing Information Retrieval in Humanities Research through Topic-Based Retrieval-Augmented Generation (RAG)*
 
+**Paper (Pre-proof Version Published on 18 Nov 2025):**  
+[DOI: 10.1017/chr.2025.10018](https://doi.org/10.1017/chr.2025.10018)
+
+**Production Version:** *To be added soon.*
+
 ---
 
 ## 📘 Overview
@@ -101,6 +106,7 @@ author={Murugaraj, Keerthana and Lamsiyah, Salima and During, Marten and Theobal
 year={2025},
 pages={1–21}}
 ```
+This citation refers to the pre-proof article. The final production version will be added when available.
 -----
 ## License
 
