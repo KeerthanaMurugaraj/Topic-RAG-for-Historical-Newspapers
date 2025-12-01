@@ -104,16 +104,15 @@ DOI={10.1017/chr.2025.10018},
 journal={Computational Humanities Research},
 author={Murugaraj, Keerthana and Lamsiyah, Salima and During, Marten and Theobald, Martin},
 year={2025},
-pages={1–21}}
+pages={e15}}
 ```
-This citation refers to the pre-proof article. The final production version will be added when available.
+
 
 -----
 ## License
 
-This is an Open Access article, distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives licence (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is unaltered and is properly cited. The written permission of Cambridge University Press must be obtained for commercial re-use or in order to create a derivative work. 
-
-Copyright © The Author(s), 2025. Published by Cambridge University Press
+This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.
+© The Author(s), 2025. Published by Cambridge University Press
 
 ---
 
