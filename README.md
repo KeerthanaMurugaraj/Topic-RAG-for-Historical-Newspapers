@@ -3,10 +3,7 @@
 
 *Enhancing Information Retrieval in Humanities Research through Topic-Based Retrieval-Augmented Generation (RAG)*
 
-**Paper (Pre-proof Version Published on 18 Nov 2025):**  
-[DOI: 10.1017/chr.2025.10018](https://doi.org/10.1017/chr.2025.10018)
-
-**Production Version:** *To be added soon.*
+*Published online by Cambridge University Press:  18 November 2025*
 
 ---
 
