@@ -24,8 +24,8 @@ Topic-RAG-for-Historical-Newspapers/
 │   └── translate.sh
     └── translate_slurm.sh
 │
-├── topic_rag.py                # Core RAG pipeline for short documents and simple queries
-├── topic_rag_plus.py           # Extended version with chunking for long documents
+├── Topic_RAG.ipynb                # Core RAG pipeline for short documents and simple queries
+├── Topic_RAG+.ipynb           # Extended version with chunking for long documents
 │
 ├── uid_list.txt                # List of unique Document IDs (UIDs)
 ├── keywords.txt                # Keywords used for dataset collection
